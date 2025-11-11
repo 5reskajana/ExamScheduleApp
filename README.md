@@ -1,6 +1,5 @@
-# lab1
-
-A new Flutter project.
+# Laboratory Exercise 1 - Exam Schedule App
+A Flutter app for a university students's exam schedule
 
 ## Getting Started
 
